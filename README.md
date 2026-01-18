@@ -5,5 +5,7 @@
   <img width="400" height="342" src="https://i.pinimg.com/originals/96/0c/27/960c275384d55ed7dc9752302c123695.gif">
 <p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/bubbles2.gif">
 <p align="center">       𝔯𝔢𝔞𝔡 𝔪𝔶 𝔭𝔞𝔱𝔯𝔢𝔬𝔫 , 𝔳𝔦𝔰𝔦𝔱 𝔪𝔞𝔦𝔫 𝔣𝔬𝔯 𝔪𝔬𝔯𝔢
-<p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/bubbles2.gif">
 <p align="center">  <img width="100" height="100" src="https://pixelsafari.neocities.org/blinkies/lostmarbles.gif"> <img width="100" height="100" src="https://pixelsafari.neocities.org/blinkies/animal/aquariumjunkie.gif"> <img width="100" height="100"src="https://pixelsafari.neocities.org/blinkies/sea.gif">
+<p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/bubbles2.gif">
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-loakism&amp;color=137b85&amp;label=+🌊.+FOLLOWERS+OF+EYWA" alt=""></p>
