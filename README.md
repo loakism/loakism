@@ -9,3 +9,7 @@
 <p align="center"> <img width="380" height="380" src="https://pixelsafari.neocities.org/dividers/bubbles2.gif">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-loakism&amp;color=137b85&amp;label=+🌊.+FOLLOWERS+OF+EYWA" alt=""></p>
+
+#
+
+<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dstyi8gwgu7smen3sn0t721i1&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dstyi8gwgu7smen3sn0t721i1&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;bar_color=ffffff&amp;bar_color_cover=false" alt="spotify-github-profile"></a></p>
